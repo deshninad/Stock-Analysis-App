@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deshn\\Desktop\\j2\\Project1\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66D97C61-9AD0-4182-9BD7-A1E528053D71}|Project1\\Project1.csproj|c:\\users\\deshn\\desktop\\j2\\project1\\project1\\project1\\form_stockview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66D97C61-9AD0-4182-9BD7-A1E528053D71}|Project1\\Project1.csproj|solutionrelative:project1\\form_stockview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D97C61-9AD0-4182-9BD7-A1E528053D71}|Project1\\Project1.csproj|C:\\Users\\deshn\\Desktop\\j2\\Project1\\Project1\\project1\\form_stockview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D97C61-9AD0-4182-9BD7-A1E528053D71}|Project1\\Project1.csproj|solutionrelative:project1\\form_stockview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D97C61-9AD0-4182-9BD7-A1E528053D71}|Project1\\Project1.csproj|C:\\Users\\deshn\\Desktop\\j2\\Project1\\Project1\\project1\\form_stockview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D97C61-9AD0-4182-9BD7-A1E528053D71}|Project1\\Project1.csproj|solutionrelative:project1\\form_stockview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D97C61-9AD0-4182-9BD7-A1E528053D71}|Project1\\Project1.csproj|C:\\Users\\deshn\\Desktop\\j2\\Project1\\Project1\\project1\\candlestick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D97C61-9AD0-4182-9BD7-A1E528053D71}|Project1\\Project1.csproj|solutionrelative:project1\\candlestick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D97C61-9AD0-4182-9BD7-A1E528053D71}|Project1\\Project1.csproj|C:\\Users\\deshn\\Desktop\\j2\\Project1\\Project1\\project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D97C61-9AD0-4182-9BD7-A1E528053D71}|Project1\\Project1.csproj|solutionrelative:project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D97C61-9AD0-4182-9BD7-A1E528053D71}|Project1\\Project1.csproj|C:\\Users\\deshn\\Desktop\\j2\\Project1\\Project1\\project1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66D97C61-9AD0-4182-9BD7-A1E528053D71}|Project1\\Project1.csproj|solutionrelative:project1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 34,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_StockView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deshn\\Desktop\\j2\\Project1\\Project1\\Project1\\Form_StockView.cs",
+              "RelativeDocumentMoniker": "Project1\\Form_StockView.cs",
+              "ToolTip": "C:\\Users\\deshn\\Desktop\\j2\\Project1\\Project1\\Project1\\Form_StockView.cs [Design]",
+              "RelativeToolTip": "Project1\\Form_StockView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:25:33.628Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_StockView.cs",
+              "DocumentMoniker": "C:\\Users\\deshn\\Desktop\\j2\\Project1\\Project1\\Project1\\Form_StockView.cs",
+              "RelativeDocumentMoniker": "Project1\\Form_StockView.cs",
+              "ToolTip": "C:\\Users\\deshn\\Desktop\\j2\\Project1\\Project1\\Project1\\Form_StockView.cs*",
+              "RelativeToolTip": "Project1\\Form_StockView.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:28:17.977Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deshn\\Desktop\\j2\\Project1\\Project1\\Project1\\Program.cs",
+              "RelativeDocumentMoniker": "Project1\\Program.cs",
+              "ToolTip": "C:\\Users\\deshn\\Desktop\\j2\\Project1\\Project1\\Project1\\Program.cs",
+              "RelativeToolTip": "Project1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:01:03.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deshn\\Desktop\\j2\\Project1\\Project1\\Project1\\Form1.cs",
+              "RelativeDocumentMoniker": "Project1\\Form1.cs",
+              "ToolTip": "C:\\Users\\deshn\\Desktop\\j2\\Project1\\Project1\\Project1\\Form1.cs [Design]",
+              "RelativeToolTip": "Project1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:01:01.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Candlestick.cs",
+              "DocumentMoniker": "C:\\Users\\deshn\\Desktop\\j2\\Project1\\Project1\\Project1\\Candlestick.cs",
+              "RelativeDocumentMoniker": "Project1\\Candlestick.cs",
+              "ToolTip": "C:\\Users\\deshn\\Desktop\\j2\\Project1\\Project1\\Project1\\Candlestick.cs",
+              "RelativeToolTip": "Project1\\Candlestick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:00:56.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_StockView.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\deshn\\Desktop\\j2\\Project1\\Project1\\Project1\\Form_StockView.Designer.cs",
+              "RelativeDocumentMoniker": "Project1\\Form_StockView.Designer.cs",
+              "ToolTip": "C:\\Users\\deshn\\Desktop\\j2\\Project1\\Project1\\Project1\\Form_StockView.Designer.cs*",
+              "RelativeToolTip": "Project1\\Form_StockView.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:28:04.187Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
